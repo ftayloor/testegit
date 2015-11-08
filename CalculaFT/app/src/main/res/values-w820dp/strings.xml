@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BTNClear">C</string>
+    <string name="BTNPosiviteNegative">+/-</string>
+    <string name="BTNPercentage">%</string>
+    <string name="BTNDivision">÷</string>
+    <string name="BTNSeven">7</string>
+    <string name="BTNEight">8</string>
+    <string name="BTNNine">9</string>
+    <string name="BTNMultiply">x</string>
+    <string name="BTNFour">4</string>
+    <string name="BTNFive">5</string>
+    <string name="BTNSix">6</string>
+    <string name="BTNSubtract">-</string>
+    <string name="BTNOne">1</string>
+    <string name="BTNTwo">2</string>
+    <string name="BTNThree">3</string>
+    <string name="BTNSum">+</string>
+    <string name="BTNInformation">i</string>
+    <string name="BTNZero">0</string>
+    <string name="BTNComma">,</string>
+    <string name="BTNEqual">=</string>
+</resources>
